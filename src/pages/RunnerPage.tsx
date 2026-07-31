@@ -1,7 +1,6 @@
 import { useRef, useState } from "react";
 import { Link } from "react-router-dom";
 import { io, Socket } from "socket.io-client";
-import { JSON5 } from "json5";
 
 type LogType = "info" | "sent" | "response" | "event" | "error";
 
