@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://socket-io-runner.netlify.app/sitemap.xml
